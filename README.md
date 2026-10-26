@@ -97,6 +97,8 @@ Redeploy both functions with the deployment target before repeating the run.
 The PNG is embedded during compilation. Replace `examples/watermark/3S.png`
 and redeploy to use a different watermark image.
 
+https://github.com/user-attachments/assets/b2fa17e1-befe-459d-819b-496089580ead
+
 ## Single-worker benchmark
 
 With the server running, deploy and start the metrics sink in terminal 2:
