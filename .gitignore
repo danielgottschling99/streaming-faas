@@ -1,0 +1,19 @@
+# Local settings and caches
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+/.plot-venv/
+/.venv/
+/benchmark/gcp.env
+
+# Generated benchmark artifacts
+/faas-server
+/streaming-faas
+/bin/
+/tmp/
+/frame-output/
+/scaled-output/
+/*.jsonl
+/results/
+/gcp-results/
